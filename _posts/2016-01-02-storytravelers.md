@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Storytelling artists
-datePublished: '2016-01-02T16:10:29.950Z'
-dateModified: '2016-01-02T16:10:18.286Z'
+datePublished: '2016-01-02T16:17:07.734Z'
+dateModified: '2016-01-02T16:16:59.048Z'
 title: Storytravelers
 author: []
 sourcePath: _posts/2016-01-02-storytravelers.md
@@ -22,6 +22,6 @@ publisher:
 _type: MediaObject
 
 ---
-![Jumping Friend In Matera, Italy, Basilicata](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3fcc0f423c444c44634dbcf14966d624c2f56e43.jpg)
+![Jumping Friend In Matera, Italy, Basilicata](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f8794b4d90db8d584dbc68ac20019d3ed448727.jpg)
 
-Hi there! We're a tribe of visual storytelling artists with a shared passion for genuine travel. We love to dive deep into travel experiences and tell about it through cutting edge videos and imagery. We create sparks that ignite your desire to travel the world.. maybe even forever.
+> Hi there! We're a tribe of visual storytelling artists with a shared passion for genuine travel. We love to dive deep into travel experiences and tell about it through cutting edge videos and imagery. We create sparks that ignite your desire to travel the world.. maybe even forever.
