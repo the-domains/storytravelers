@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://vimeo.com/92933414'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - vimeo
   - noobs
@@ -17,8 +17,8 @@ keywords:
   - school
   - tuition
 description: "We're a tribe of visual storytelling artists with a shared passion for genuine travel experiences. Check out our stories. Http://storytravelers.com"
-datePublished: '2016-01-02T17:26:34.142Z'
-dateModified: '2016-01-02T17:26:20.533Z'
+datePublished: '2016-01-02T18:06:12.625Z'
+dateModified: '2016-01-02T18:06:08.601Z'
 author:
   - name: StoryTravelers
     url: 'http://vimeo.com/storytravelers'
@@ -35,14 +35,14 @@ app_links:
     app_name: Vimeo
     package: com.vimeo.android.videoapp
 title: Welcome to StoryTravelers
+sourcePath: _posts/2016-01-02-welcome-to-storytravelers.md
+published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-sourcePath: _posts/2016-01-02-welcome-to-storytravelers.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
