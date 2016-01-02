@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://storytravelers.com'
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Storytelling artists
-datePublished: '2016-01-02T16:17:07.734Z'
-dateModified: '2016-01-02T16:16:59.048Z'
+datePublished: '2016-01-02T17:53:58.117Z'
+dateModified: '2016-01-02T17:21:41.927Z'
 title: Storytravelers
 author: []
 sourcePath: _posts/2016-01-02-storytravelers.md
