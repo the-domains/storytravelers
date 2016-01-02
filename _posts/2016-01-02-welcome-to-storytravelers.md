@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://vimeo.com/92933414'
 inLanguage: en
 starred: true
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - school
   - tuition
 description: "We're a tribe of visual storytelling artists with a shared passion for genuine travel experiences. Check out our stories. Http://storytravelers.com"
-datePublished: '2016-01-02T18:06:12.625Z'
-dateModified: '2016-01-02T18:06:08.601Z'
+datePublished: '2016-01-02T18:15:51.373Z'
+dateModified: '2016-01-02T18:15:40.107Z'
 author:
   - name: StoryTravelers
     url: 'http://vimeo.com/storytravelers'
@@ -43,6 +42,7 @@ publisher:
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+url: welcome-to-storytravelers/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
