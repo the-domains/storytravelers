@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Dive into some visual stories we created
-datePublished: '2016-01-02T18:02:21.310Z'
-dateModified: '2016-01-02T18:02:08.255Z'
+datePublished: '2016-01-02T18:46:19.948Z'
+dateModified: '2016-01-02T18:46:12.572Z'
 title: Portfolio
 author: []
 sourcePath: _posts/2016-01-02-portfolio.md
@@ -26,4 +26,4 @@ _type: WebPage
 > 
 > Check out our latest stories
 
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe2dbf0173d1a569ca37f960cba0f5fb9a0c0377.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/13c47fe0980fdd2a9dd7296388e0e49d4b1cf1ad.jpg)
