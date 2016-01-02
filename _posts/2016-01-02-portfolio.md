@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Dive into some visual stories we created
-datePublished: '2016-01-02T16:51:43.126Z'
-dateModified: '2016-01-02T16:51:30.882Z'
+datePublished: '2016-01-02T17:21:57.743Z'
+dateModified: '2016-01-02T17:21:40.784Z'
 title: Portfolio
 author: []
 sourcePath: _posts/2016-01-02-portfolio.md
