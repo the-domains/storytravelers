@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Visual Storytelling Artists with a passion for Travel]]></title>
+        <description><![CDATA[Visual Storytelling Artists with a passion for Travel]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 02 Jan 2016 15:41:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Storytravelers]]></title>
+            <description><![CDATA[<article><h1>Storytravelers</h1><p>Hi there! We’re a tribe of visual storytelling artists with a shared passion for genuine travel. We love to dive deep into travel experiences and tell about it through cutting edge videos and imagery. We create sparks that ignite your desire to travel the world.. maybe even forever.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3fcc0f423c444c44634dbcf14966d624c2f56e43.jpg"></article>]]></description>
+            <link>http://storytravelers.com</link>
+            <guid isPermaLink="false">cb316b4a-df36-4e60-b212-23c8995f9999</guid>
+            <pubDate>Sat, 02 Jan 2016 15:41:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
