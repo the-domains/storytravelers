@@ -17,8 +17,8 @@ keywords:
   - school
   - tuition
 description: "We're a tribe of visual storytelling artists with a shared passion for genuine travel experiences. Check out our stories. Http://storytravelers.com"
-datePublished: '2016-01-02T17:04:50.054Z'
-dateModified: '2016-01-02T17:04:25.966Z'
+datePublished: '2016-01-02T17:26:34.142Z'
+dateModified: '2016-01-02T17:26:20.533Z'
 author:
   - name: StoryTravelers
     url: 'http://vimeo.com/storytravelers'
@@ -48,7 +48,3 @@ _context: 'http://schema.org'
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F92933414&amp;url=https%3A%2F%2Fvimeo.com%2F92933414&amp;image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F509234857_1280.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
-
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9193b23e-5be2-4b3e-beef-34b5f3ff2c8e.JPG)
-
-> Hi there! We're a tribe of visual storytelling artists with a shared passion for genuine travel. We love to dive deep into travel experiences and tell about it through cutting edge videos and imagery. We create sparks that ignite your desire to travel the world.. maybe even forever.
