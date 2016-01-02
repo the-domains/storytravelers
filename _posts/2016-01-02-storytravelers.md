@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Storytelling artists
-datePublished: '2016-01-02T15:41:25.254Z'
-dateModified: '2016-01-02T15:41:17.987Z'
+datePublished: '2016-01-02T16:10:29.950Z'
+dateModified: '2016-01-02T16:10:18.286Z'
 title: Storytravelers
 author: []
 sourcePath: _posts/2016-01-02-storytravelers.md
