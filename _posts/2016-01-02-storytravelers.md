@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-02T18:55:41.552Z'
-dateModified: '2016-01-02T18:55:36.278Z'
+datePublished: '2016-01-02T18:56:03.037Z'
+dateModified: '2016-01-02T18:55:58.304Z'
 title: Storytravelers
 author: []
 sourcePath: _posts/2016-01-02-storytravelers.md
