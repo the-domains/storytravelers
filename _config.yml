@@ -1,7 +1,7 @@
 name: Storytravelers
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.1255
+layout_spectrum: 0.11352
+typography_spectrum: 0.11715
 title: Visual Storytelling Artists with a passion for Travel
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#fbf4eb'
     - '#677949'
   brandStrength: 0
-  lightness: 0.5625
-  saturation: 1
+  lightness: 0.1875
+  saturation: 0.5
   rhythmicContrast: 1
 purpose: []
