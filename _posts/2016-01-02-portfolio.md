@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Dive into some visual stories we created
-datePublished: '2016-01-02T16:14:55.770Z'
-dateModified: '2016-01-02T16:14:42.598Z'
+datePublished: '2016-01-02T16:18:43.440Z'
+dateModified: '2016-01-02T16:18:37.179Z'
 title: Portfolio
 author: []
 sourcePath: _posts/2016-01-02-portfolio.md
@@ -23,4 +23,4 @@ _type: WebPage
 
 ---
 We love to tell about amazing places, people and culture
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d34166a-548c-4076-9177-8b330dcdce9e.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/68df77d64d79601bc140fd18057ec13eb6b66594.jpg)
