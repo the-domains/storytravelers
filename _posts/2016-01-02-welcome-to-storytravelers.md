@@ -1,0 +1,54 @@
+---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/92933414'
+inLanguage: en
+starred: false
+keywords:
+  - vimeo
+  - noobs
+  - lesson
+  - hone
+  - diffusion
+  - gels
+  - pros
+  - video
+  - school
+  - tuition
+description: "We're a tribe of visual storytelling artists with a shared passion for genuine travel experiences. Check out our stories. Http://storytravelers.com"
+datePublished: '2016-01-02T17:04:50.054Z'
+dateModified: '2016-01-02T17:04:25.966Z'
+author:
+  - name: StoryTravelers
+    url: 'http://vimeo.com/storytravelers'
+    avatar: {}
+related: []
+app_links:
+  - url: 'vimeo://app.vimeo.com/videos/92933414'
+    type: ios
+    app_name: Vimeo
+    app_store_id: '425194759'
+  - url: 'vimeo://app.vimeo.com/videos/92933414'
+    should_fallback: 'true'
+    type: web
+    app_name: Vimeo
+    package: com.vimeo.android.videoapp
+title: Welcome to StoryTravelers
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+sourcePath: _posts/2016-01-02-welcome-to-storytravelers.md
+published: true
+_type: VideoObject
+_context: 'http://schema.org'
+
+---
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F92933414&amp;url=https%3A%2F%2Fvimeo.com%2F92933414&amp;image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F509234857_1280.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9193b23e-5be2-4b3e-beef-34b5f3ff2c8e.JPG)
+
+> Hi there! We're a tribe of visual storytelling artists with a shared passion for genuine travel. We love to dive deep into travel experiences and tell about it through cutting edge videos and imagery. We create sparks that ignite your desire to travel the world.. maybe even forever.
