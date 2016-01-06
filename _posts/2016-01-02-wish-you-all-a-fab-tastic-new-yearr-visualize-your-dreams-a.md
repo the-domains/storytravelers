@@ -16,8 +16,8 @@ keywords:
   - tastic
   - diederik
 description: 'Wish you all a fab tastic new yearr! Visualize your dreams and believe in yourself! Here are my 9 besties of 2015 on Instagram. #2015bestnine'
-datePublished: '2016-01-02T20:47:03.296Z'
-dateModified: '2016-01-02T20:46:54.679Z'
+datePublished: '2016-01-06T12:32:31.498Z'
+dateModified: '2016-01-06T12:32:27.415Z'
 author:
   - avatar: {}
 related: []
@@ -44,8 +44,8 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-> Wish you all a fab tastic new yearr! Visualize your dreams and believe in yourself! Here are my 9 besties of 2015 on Instagram. \#2015bestnine
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/26184839d7224d81654aaa0669bd6e92c638baa5.jpg)
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/51acaff9-62af-45ff-a5c3-535050674602.jpg)
+> Wish you all a fab tastic new yearr! Visualize your dreams and believe in yourself! Here are my 9 besties of 2015 on Instagram. \#2015bestnine
 
 >
