@@ -4,7 +4,7 @@
         <description><![CDATA[Storytravelers]]></description>
         <link>https://thegrid.ai/storytravelers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 13:22:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2016 13:24:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/storytravelers/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hymn to Jordan]]></title>
@@ -26,13 +26,6 @@
             <link>https://vimeo.com/92933414</link>
             <guid isPermaLink="false">a210064d-cdc3-4b58-a511-15f05e676615</guid>
             <pubDate>Sat, 02 Jan 2016 18:26:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/346e9278-9abc-4cc6-b624-31eacfcb14e1.jpg">]]></description>
-            <link>https://thegrid.ai/storytravelers/1f6e3d24-b555-496f-9035-9e1885797e9e/index.html</link>
-            <guid isPermaLink="false">1f6e3d24-b555-496f-9035-9e1885797e9e</guid>
-            <pubDate>Sat, 02 Jan 2016 17:48:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
